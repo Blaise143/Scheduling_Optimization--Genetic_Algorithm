@@ -1,4 +1,4 @@
-,mandatory_1,mandatory_2,mandatory_3,elective_1,elective_2
+,course_1,course_2,course_3,course_4,course_5
 0,['CHEM 123'],['CPSC 110'],['PHYS 131'],['PHYS 170'],['CPSC 103']
 1,['BIOL 140'],['CHEM 123'],['CPSC 110'],['CHEM 154'],['MATH 103']
 2,['CPSC 110'],['PHYS 131'],['MATH 102'],['PHYS 170'],['CHEM 154']
